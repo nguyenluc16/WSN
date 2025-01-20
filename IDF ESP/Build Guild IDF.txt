@@ -1,0 +1,35 @@
+
+
+cd đến thư mục có source
+
+bỏ qua: idf.py set-target esp32
+
+idf.py build
+idf.py flash
+idf.py -p COM3 flash
+idf.py monitor
+
+idf.py build flash monitor
+
+
+make menuconfig
+
+idf.py --version
+idf.py fullclean
+
+CB: D4  --> done
+
+LED: D15 D5 --> done 
+
+
+OLED: SDA: D21 SCK: D22 --> done
+
+
+Button 1 - D13
+    2 - EN
+
+
+
+
+
+
