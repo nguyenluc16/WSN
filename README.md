@@ -26,3 +26,9 @@ paulstoffregen/OneWire@^2.3.7
 monitor_speed = 115200
 
 4. Build the program and upload the code to ESP32
+
+
+
+ESP IDF 
+
+. . .
